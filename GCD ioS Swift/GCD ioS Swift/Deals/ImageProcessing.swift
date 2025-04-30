@@ -8,7 +8,6 @@
 import Foundation
 
 class ImageProcessing {
-    
     func imageProcesss() {
         
         // Step 1: Create a concurrent queue that is initially inactive
